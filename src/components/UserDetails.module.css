@@ -1,0 +1,19 @@
+.container {
+  width: 400px;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 20px;
+  font-variant-caps: all-small-caps;
+  font-weight: bolder;
+}
+
+.user {
+  color: pink;
+}
+
+.weather {
+  color: silver;
+}
